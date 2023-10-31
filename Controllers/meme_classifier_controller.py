@@ -5,6 +5,8 @@ from nudity_detection.nude_detector import NudeDetector
 from django.core.files.storage import FileSystemStorage
 from os import path
 
+
+
 @api_view(['GET'])
 def getData(request):
     return Response({
@@ -28,6 +30,7 @@ def classify_meme(request: Request):
         response = 'POST API and you have uploaded a {} file, saved as {}'.format(meme.name, filename)
         detector = NudeDetector()
         detections = detector.detect(f'{folder}/{filename}')
+        
         return Response((detections))
     else:
         response = 'POST API and no image file was uploaded'
@@ -36,6 +39,4 @@ def classify_meme(request: Request):
     return Response({
         "message": response
     })
-    # detector = NudeDetector()
-    # detections = detector.detect("nude_male.jpg")
-    # return Response((detections))
+    
