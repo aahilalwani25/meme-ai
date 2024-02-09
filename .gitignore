@@ -1,0 +1,9 @@
+meme/
+.env
+Controllers/__pycache__
+api/__pycache__
+meme_ai/__pycache__
+assets/
+.dist
+assets/
+Datasets/
