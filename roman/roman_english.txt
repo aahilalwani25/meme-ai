@@ -1,0 +1,203 @@
+Hi		Ji
+Kaise ho?		How are you?
+Kese ho?		How are you?
+Hello		Hello
+Me theek hu		I am good
+Me theek hu		I am fine
+Mai theek hu		I am good
+Mai theek hu		I am fine
+Tum kya kar rahe ho?		What are you doing?
+Tum kya kar rhy ho?		What are you doing?
+Mera naam		My name is
+Abhi khana khate ho?		Are you eating right now?
+Abhi khana khatay ho?		Are you eating right now?
+Mera dost acha ha		My friend is good
+Mera dost acha nahi ha		My friend is not good
+Mera dost acha nahi ha		My friend is bad
+Mera dost bekaar hai		My friend is useless
+Mera dost sachha ha		My friend is truthful
+Ye duniya faani ha		This world is temporary
+Ye dunya faani ha		This world is temporary
+Ye		This
+Kya?		What?
+Tumhara		Yours
+Meme		meme
+Ek meme aayi ha			a meme has arrived
+mere pe ek meme banao		make a meme on me
+Kya		What
+Tum		You
+Mai		Me
+Khubsurat		Beautiful
+Jab		When
+Jb		When
+Kitaab		Book
+Kitab		Book
+News		News
+Akhbar		Newspaper
+Akhbar		News Paper
+Sachha		Truthful
+Sacha		Truthful
+Agar		if
+Agr		if
+Kyu		Why
+Kyu?		Why?
+Q?		Why?
+Waqt		Time
+Apna kaam karo		Do your work
+Apna kaam khud karo		Do your own work
+Own		Khud
+Kabhi kabhar		Sometimes
+Aksar auqat		Sometimes
+Kya me apka naam jaan skta hu?		May I know your name?
+Kya me apka naam jaan skti hu?		May I know your name?
+Theek ha		Ok
+Theek		Ok
+Theek ha		Its ok
+taqreeban		Approx
+taqreeban		Approximate
+Shakhs		Person
+Ye shakhs		This person
+Chalay jao		Go away
+Dafa hojao		Go away
+Bhaag jao		Run
+Bhaag		Run
+Baraye meherbani		Please
+Please		Please
+Time		Time
+Nahi		No
+Nhi		No
+Yes		Haan
+Yes		Han
+Yes		Jee
+Kyu nahi?		Why not?
+Q nahi?		Why not?
+Kyu nhi?		Why not?
+Khana		Food
+Khana khao		Eat food
+Khana khayen		Eat food
+Khana khayein		Eat food
+Mere paas ek khilona ha		I have a toy
+Mere paas ek khilona ha		I have one toy
+Khilona		Toy
+Khelo		Play
+Kya tum khelo gay?		Will you play?
+Kya tum khelo ge?		Will you play?
+Kya tum kheloge?		Will you play?
+Kya tum khelogay?		Will you play?
+Kya tum khao ge?		Will you eat?
+Baraye meherbani khana khalo		Please eat food
+Baraye meherbani khana khao		Please eat food
+Bhai		Brother
+Bhaijaan		Brother
+Bhai jaan		Brother
+Behen		Sister
+Behen ji		Sister
+Bhai sahab		Brother
+Uncle		Uncle
+Toy		Khilona
+Tumhara		your
+Tumhara naam kya ha?		What is your name?
+Naam		Name
+Ek meme dedo		Give one meme
+Ek meme banado		Make one meme
+Ek meme		One meme
+Dedo		Give
+Dedein		Give
+De dain		Give
+De do		Give
+De dein		Give
+Theek		Good
+Theek		Fine
+Me ek AI memer hu		I am an AI memer
+Me AI memer hu		I am an AI memer
+Kese		How
+Kaise		How
+Kaise karo ge?		How will you do?
+Kaise kroge?		How will you do?
+Kaise karoge?		How will you do?
+Kese karo ge?		How will you do?
+Kese kroge?		How will you do?
+Kese karoge?		How will you do?
+Maqsad		Purpose
+Maqsad		Reason
+Pasand		Love
+Pasand		Like
+Sona		Sleep
+Sona		Gold
+Mujhe sona pasand hai		I like sleeping
+Mujhe sona pasand hai		I love sleeping
+Rona		Cry
+Mujhe rona aata ha		I cry
+Mujhe rona ha		I want to cry
+Kya tumhe urdu aati ha?		Do you know urdu?
+Urdu		Urdu
+Angrezi		English
+Banao		Make
+Banado		Make
+Aam tateel		Holiday
+Aam tatil		Holiday
+Chutti		Holiday
+Mujhe chutti chahiye		I want holiday
+Kya aapko		Do you
+Kya apko		Do you
+Kya apko sona pasand ha?		Do you like sleeping?
+Kya aapko sona pasand ha?		Do you like sleeping?
+Barbaad		Waste
+Barbad		Waste
+Kya me so skta hu?		May I sleep?
+Kya me apke saath so skta hu?		May I sleep with you?
+Paisa barbad		Money wasted
+Paisa		Money
+Paise		Money
+Paisa barbaad		Money wasted
+Mujhe Paise chahiye		I need money
+Mujhe		I
+Mujhe khana khana ha		I need food
+Aik		One
+Ek		One
+Kutta		Dog
+Kutte		Dog
+Billi		Cat
+Pakistan		Pakistan
+America		United States
+Amrika		United States
+Sardi		Winter
+Sardi		cold
+Garmi		Summer
+Garmi		Hot
+Mausam		Weather
+Mosam		Weather
+Mujhe garmi lag rahi ha		I am feeling hot
+Mujhe sardi lag rahi ha		I am feeling cold
+Mujhe garmi ka mausam pasand hai		I like hot weather
+Mujhe garmi ka mausam pasand hai		I love hot weather
+Mujhe garmi ka mausam pasand hai		I like summer weather
+Mujhe garmi ka mausam pasand hai		I like hot weather
+Mujhe garmi ka mosam pasand hai		I like hot weather
+Mujhe garmi ka mosam pasand hai		I love hot weather
+Mujhe garmi ka mosam pasand hai		I like summer weather
+Mujhe garmi ka mosam pasand hai		I like hot weather
+Pyar		Love
+Piyar		Love
+Kya tum mujh se pyar karti ho?		Do you love me?
+Kya tum mujh se piyar karti ho?		Do you love me?
+Kya tumhe kitaab padhna pasand ha?		Do you love reading books?
+Bahar		Spring
+teen		Three
+char		Four
+chaar		Four
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -4,6 +4,11 @@ from rest_framework.decorators import api_view
 from nudity_detection.nude_detector import NudeDetector
 from django.core.files.storage import FileSystemStorage
 from os import path
+import sys
+
+sys.path.append(r'roman chat')
+
+from chatbot import Message, predict_class, get_response, intents
 
 
 
@@ -38,4 +43,3 @@ def classify_meme(request: Request):
     return Response({
         "message": response
     })
-    

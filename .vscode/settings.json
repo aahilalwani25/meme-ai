@@ -1,0 +1,11 @@
+{
+    "python.analysis.autoImportCompletions": false,
+    "python.analysis.typeCheckingMode": "off",
+    "python.analysis.extraPaths": [
+        "./controllers",
+        "./controllers",
+        "./Datasets",
+        "./transformer_model",
+        "./roman chat"
+    ]
+}
