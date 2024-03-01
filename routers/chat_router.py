@@ -11,11 +11,12 @@ sys.path.append(r'roman chat')
 from chatbot import Message, predict_class, get_response
 
 @api_view(['POST'])
-def send(message:Message):
+def send(request:Request):
     # print(message.message)
-    ints= predict_class(message.message)
+    message= request.data.get('message')
+    ints= predict_class(message)
     res= get_response(intents_list=ints)
-    return {
+    return Response({
         "name":"AI",
         "message":res
-    }
+    })
