@@ -1,0 +1,18 @@
+tensorflow
+keras
+onnxruntime
+pandas
+datasets
+torch
+nltk
+Django
+djangorestframework
+numpy
+opencv-python
+scikit-learn
+matplotlib
+ipynb
+pydantic
+pytesseract (install tesseract-ocr from this website https://github.com/UB-Mannheim/tesseract/wiki )
+pickle
+

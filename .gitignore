@@ -3,7 +3,15 @@ meme/
 Controllers/__pycache__
 api/__pycache__
 meme_ai/__pycache__
-assets/
 .dist
-assets/
+assets/classification_images
 Datasets/
+meme classification/etc_model.pkl
+meme classification/knc_model.pkl
+meme classification/lr_model.pkl
+meme classification/mnb_model.pkl
+meme classification/rf_model.pkl
+meme classification/sgd_model.pkl
+meme classification/vectorizer.pkl
+meme classification/.ipynb_checkpoints
+meme classification/__pycache__

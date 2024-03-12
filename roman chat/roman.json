@@ -84,7 +84,9 @@
         "tag": "fav",
         "patterns": ["Ek kaam ha tumse", "Meri madad kardo", "Please meri help krdo"],
         "responses": [
-          "Bhonk kya kaam ha?"
+          "Bhonk kya kaam ha?",
+          "bol",
+          "jaldi batao"
         ],
         "context": [""]
       },
