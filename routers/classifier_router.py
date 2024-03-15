@@ -35,15 +35,20 @@ def classify_meme(request: Request):
         response = 'POST API and you have uploaded a {} file, saved as {}'.format(meme.name, filename)
         detector = NudeDetector()
         file_path= f'{folder}/{filename}'
-        #detections = detector.detect(file_path)
-        
-        #now predicting on the basis of memes
-        prediction= get_prediction(file_path)    #   Predicting the sentiment of the image.
-        prediction=prediction.upper()   #   Capitalising the first letter of the string.
-        prediction=prediction.replace("_", " ") #   Replacing the underscore with a white-space.
-        return Response({
-            "status":prediction
-        })
+        detections = detector.detect(file_path)
+        if(detector.is_nude(detections)):
+            return Response({
+                "status":'NEGATIVE',
+                "reason": 'The picture consist of sensitive part that might be offended by the people'
+            })
+        else:
+            #now predicting on the basis of memes
+            prediction= get_prediction(file_path)    #   Predicting the sentiment of the image.
+            prediction=prediction.upper()   #   Capitalising the first letter of the string.
+            prediction=prediction.replace("_", " ") #   Replacing the underscore with a white-space.
+            return Response({
+                "status":prediction
+            })
     else:
         response = 'POST API and no image file was uploaded'
 

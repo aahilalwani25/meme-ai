@@ -153,6 +153,26 @@ class NudeDetector:
         cv2.imwrite(output_path, img)
 
         return output_path
+    
+    def is_nude(self,detector: list)->bool:
+
+        is_nude= False
+        #check for each output label
+        for det in detector:
+            if(det['class']=='FEMALE_GENITALIA_EXPOSED' and det['score']>0.6):
+                is_nude= True
+                break
+            if(det['class']=='MALE_GENITALIA_EXPOSED' and det['score']>0.6):
+                is_nude= True
+                break
+            if(det['class']=='FEMALE_BREAST_EXPOSED' and det['score']>0.6):
+                is_nude= True
+                break
+            if(det['class']=='BUTTOCKS_EXPOSED' and det['score']>0.6):
+                is_nude= True
+                break
+        return is_nude
+
 
 
 # import numpy as np
