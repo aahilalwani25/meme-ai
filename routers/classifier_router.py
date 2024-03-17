@@ -39,7 +39,8 @@ def classify_meme(request: Request):
         if(detector.is_nude(detections)):
             return Response({
                 "status":'NEGATIVE',
-                "reason": 'The picture consist of sensitive part that might be offended by the people'
+                "reason": 'The picture consist of sensitive part that might be offended by the people',
+                "calculations": detections
             })
         else:
             #now predicting on the basis of memes
@@ -47,7 +48,8 @@ def classify_meme(request: Request):
             prediction=prediction.upper()   #   Capitalising the first letter of the string.
             prediction=prediction.replace("_", " ") #   Replacing the underscore with a white-space.
             return Response({
-                "status":prediction
+                "status":prediction,
+                "calculations": detections
             })
     else:
         response = 'POST API and no image file was uploaded'
